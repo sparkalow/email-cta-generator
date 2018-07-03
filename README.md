@@ -1,6 +1,6 @@
 HTML Email CTA Button Generator
 ===============================
-This client side React app generates HTML markup suitable for use in emails with good compatibility accross a range of destop and mobile clients.
+This client side React app generates HTML markup suitable for use in emails with good compatibility accross a range of desktop and mobile clients.
 
 Email is deceptively difficult. This has been thoroughly tested, however your mileage may vary. It's recommended that you test using a service like [Litmus](http://litmus.com), [Email on Acid](https://www.emailonacid.com/) and/or your own devices.
 
